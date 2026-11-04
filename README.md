@@ -16,6 +16,10 @@
 
 > Baseado nos arquivos reconhecidos pelo GitHub nos seus repositórios **privados**. Atualizado em novembro de 2026.
 
+<div align="center">
+  <img src="./assets/languages-pie.svg" width="760" alt="Gráfico de pizza da distribuição de linguagens" />
+</div>
+
 | Linguagem | Participação nos arquivos analisados |
 | --- | --- |
 | Python | ███████████░░░░░░░░░ 56,7% |
