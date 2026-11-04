@@ -43,19 +43,7 @@ Pelos repositórios privados, trabalhei com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter Notebook" />
 </div>
 
-| Linguagem | Evidência nos repositórios privados |
-| --- | --- |
-| Python e Jupyter Notebook | `TSChem` e `ueg-react-flow` |
-| JavaScript e HTML | `fundamentos-ic-dashboard` |
-| CSS e HTML | `Projeto_portifolio_calourinha` |
-| Java | `poo2-gestao-eventos-gjacarvalho` |
-
-## 🚀 Projetos em destaque
-
-- `TSChem` — Python e Jupyter Notebook
-- `fundamentos-ic-dashboard` — JavaScript e HTML
-- `Projeto_portifolio_calourinha` — Portfólio em HTML e CSS
-- `poo2-gestao-eventos-gjacarvalho` — Java
+_A análise é agregada: nenhum nome ou conteúdo de repositório privado é exposto neste perfil público._
 
 <div align="center">
 
