@@ -5,15 +5,15 @@
   <text x="42" y="48" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="700">Linguagens dos projetos privados</text>
   <text x="42" y="75" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">Distribuição por arquivos identificados pelo GitHub</text>
   <g transform="translate(184 195) rotate(-90)">
-    <circle r="96" fill="none" stroke="#21262d" stroke-width="56"/>
-    <circle r="96" fill="none" stroke="#3572A5" stroke-width="56" stroke-dasharray="342.03 261.16" stroke-dashoffset="0"/>
-    <circle r="96" fill="none" stroke="#f1e05a" stroke-width="56" stroke-dasharray="139.35 463.84" stroke-dashoffset="-342.03"/>
-    <circle r="96" fill="none" stroke="#DA5B0B" stroke-width="56" stroke-dasharray="85.65 517.54" stroke-dashoffset="-481.38"/>
-    <circle r="96" fill="none" stroke="#e34c26" stroke-width="56" stroke-dasharray="24.13 579.06" stroke-dashoffset="-567.03"/>
-    <circle r="96" fill="none" stroke="#563d7c" stroke-width="56" stroke-dasharray="8.44 594.75" stroke-dashoffset="-591.16"/>
-    <circle r="96" fill="none" stroke="#b07219" stroke-width="56" stroke-dasharray="3.62 599.57" stroke-dashoffset="-599.60"/>
+    <circle r="75" fill="none" stroke="#21262d" stroke-width="42"/>
+    <circle r="75" fill="none" stroke="#3572A5" stroke-width="42" stroke-dasharray="267.18 204.06" stroke-dashoffset="0"/>
+    <circle r="75" fill="none" stroke="#f1e05a" stroke-width="42" stroke-dasharray="108.85 362.39" stroke-dashoffset="-267.18"/>
+    <circle r="75" fill="none" stroke="#DA5B0B" stroke-width="42" stroke-dasharray="66.91 404.33" stroke-dashoffset="-376.03"/>
+    <circle r="75" fill="none" stroke="#e34c26" stroke-width="42" stroke-dasharray="18.85 452.39" stroke-dashoffset="-442.94"/>
+    <circle r="75" fill="none" stroke="#563d7c" stroke-width="42" stroke-dasharray="6.60 464.64" stroke-dashoffset="-461.79"/>
+    <circle r="75" fill="none" stroke="#b07219" stroke-width="42" stroke-dasharray="2.83 468.41" stroke-dashoffset="-468.39"/>
   </g>
-  <circle cx="184" cy="195" r="66" fill="#0d1117"/>
+  <circle cx="184" cy="195" r="53" fill="#0d1117"/>
   <text x="184" y="192" fill="#f0f6fc" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="30" font-weight="700">6</text>
   <text x="184" y="216" fill="#8b949e" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="14">linguagens</text>
   <line x1="330" y1="103" x2="330" y2="280" stroke="#30363d" stroke-width="1"/>
