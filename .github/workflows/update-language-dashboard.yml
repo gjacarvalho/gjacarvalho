@@ -1,0 +1,29 @@
+name: Atualizar dashboard de linguagens
+
+on:
+  repository_dispatch:
+    types: [refresh-profile]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recalcular linguagens
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: node scripts/generate-language-bars.js
+      - name: Publicar alteração
+        run: |
+          if git diff --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/languages-pie.svg
+          git commit -m 'chore: atualizar dashboard de linguagens'
+          git push
