@@ -14,15 +14,15 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gjacarvalho&theme=tokyonight&hide_border=true" alt="Sequência de contribuições de Guilherme Carvalho" />
 </div>
 
-> Baseado nos arquivos reconhecidos pelo GitHub nos seus repositórios **privados**. Atualizado em novembro de 2026.
+> Baseado nos arquivos reconhecidos pelo GitHub nos seus repositórios **públicos e privados**. Atualizado em novembro de 2026.
 
 <div align="center">
-  <img src="./assets/languages-pie.svg" width="700" alt="Gráfico de pizza da distribuição de linguagens" />
+  <img src="./assets/languages-pie.svg" width="700" alt="Barras de estilo pixel-art com linguagens utilizadas e seus percentuais" />
 </div>
 
 ## 🧰 Tecnologias já utilizadas
 
-Pelos repositórios privados, trabalhei com:
+Pelos repositórios públicos e privados, trabalhei com:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
@@ -36,6 +36,10 @@ Pelos repositórios privados, trabalhei com:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter Notebook" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="Shell" />
 </div>
 
 _A análise é agregada: nenhum nome ou conteúdo de repositório privado é exposto neste perfil público._
